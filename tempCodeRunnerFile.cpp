@@ -1,1 +1,1 @@
- // v.clear();
+if(!chuaxet[i])   
